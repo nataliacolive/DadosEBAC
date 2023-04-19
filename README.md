@@ -4,6 +4,3 @@ BootCamp EBAC - Construção de base de dados, utilizando Databricks para MSSQL 
 ###
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nataliacolive&repo=github-readme-stats)](https://github.com/nataliacolive/github-readme-stats)
 
-###
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliacolive&layout=compact)](https://github.com/nataliacolive/github-readme-stats)
